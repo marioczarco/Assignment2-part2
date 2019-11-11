@@ -1,0 +1,1 @@
+"# assignment2_part2"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/marioczarco/assignment2_part2.gitgit push -u origin master

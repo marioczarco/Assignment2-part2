@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentApplication</string>
+    <string name="title_activity_student_detail">StudentDetailActivity</string>
+    <item type = "id" name = "add_button"></item>
+</resources>
